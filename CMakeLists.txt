@@ -8,4 +8,5 @@ add_executable(dsa
         easy/lc_PalindromeNumber.cpp
         easy/lc_ValidParentheses.cpp
         easy/lc_MergeTwoSortedLists.cpp
+        medium/lc_AddTwoNumbers.cpp
 )
