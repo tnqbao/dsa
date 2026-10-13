@@ -7,4 +7,5 @@ add_executable(dsa
         easy/lc_TwoSum.cpp
         easy/lc_PalindromeNumber.cpp
         easy/lc_ValidParentheses.cpp
+        easy/lc_MergeTwoSortedLists.cpp
 )
