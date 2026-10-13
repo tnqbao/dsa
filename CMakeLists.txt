@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 4.3)
+project(dsa)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(dsa
+        easy/lc_TwoSum.cpp)
