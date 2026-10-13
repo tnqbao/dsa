@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(dsa
         easy/lc_TwoSum.cpp
         easy/lc_PalindromeNumber.cpp
+        easy/lc_ValidParentheses.cpp
 )
